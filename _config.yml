@@ -39,6 +39,7 @@ sass:
   precision: 10
 plugins:
 - jekyll-menus
+- searchyll
 exclude:
 - Gemfile
 - Gemfile.lock
@@ -56,3 +57,6 @@ exclude:
 collections:
   posts:
     permalink: "/posts/:title/"
+elasticsearch:
+  url: "https://<api token>:<api key>@my-awesome-cluster-1234.us-east-1.bonsai.io"
+  index_name: jekyll-posts
