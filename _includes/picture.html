@@ -1,0 +1,8 @@
+{% assign image = include.image %}
+{% assign alt = include.alt %}
+{% assign cssClass = include.cssClass %}
+<picture>
+  <source srcset="{{ image.optimized | relative_url }}" type="image/webp">
+  <source srcset="{{ image.fallback | relative_url }}" type="image/jpeg"> 
+  <img src="{{ image.fallback | relative_url }}" {% assign alt_is_not_empty = alt | is_not_empty %}{% if alt_is_not_empty %}alt="{{ alt }}"{% endif %}  {% assign cssClass_is_not_empty = cssClass | is_not_empty %}{% if cssClass_is_not_empty %}class="{{ cssClass }}"{% endif %}>
+</picture>

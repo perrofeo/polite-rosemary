@@ -1,0 +1,22 @@
+---
+layout: body
+---
+
+<main class="content about">
+  
+  {% include static_header.html page=page %}
+  {% for bulletpoint in page.bulletpoints %}
+    <section class="content__row about__section">
+      
+      {% include picture.html image=bulletpoint.image alt=bulletpoint.title cssClass='about__section-image' %}
+      <div class="about__section-content-container">
+        <h2 class="about__section-title">{{ bulletpoint.title }}</h2>
+        <div class="about__section-content">
+          {{ bulletpoint.description | markdownify }}
+        </div>
+      </div>
+    </section>
+  {% endfor %}
+
+  {% include promo_section.html site=site %} 
+</main>

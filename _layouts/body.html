@@ -1,0 +1,21 @@
+---
+layout: base
+---
+
+    {% if page.basename == 'index.md' %}
+        <div class="header-wrapper">
+            <div class="header-wrapper__overlay">
+                
+                {% include hero.html page=page %}
+                
+                {% include header.html page=page site=site %}
+            </div>
+        </div>
+    {% else %}
+        
+        {% include header.html page=page site=site %}
+    {% endif %}
+
+    {{ content }}
+
+    {% include footer.html page=page site=site %}
