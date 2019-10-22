@@ -7,11 +7,11 @@ snipcart_css: https://cdn.snipcart.com/themes/v3.0.0/default/snipcart.css
 snipcart_api_key: YTc2MDI1ODMtNjg4Zi00ZTFmLWI5ZDQtY2RlMzY5M2U3OWNmNjM3MDczNjc4NjQ5ODc5NDky
 logos:
   light:
-    optimized: images/logo-white.svg
-    fallback: images/logo-white.svg
+    optimized: images/ramon_logo.svg
+    fallback: images/ramon_logo.svg
   dark:
-    optimized: images/logo.svg
-    fallback: images/logo.svg
+    optimized: images/ramon_logo.svg
+    fallback: images/ramon_logo.svg
 palette: default
 palettes:
   default:
@@ -26,8 +26,8 @@ palettes:
       active_dark: "#547567"
       dark_grey: "#273132"
       light_grey: "#6B797A"
-      bg_image_primary_optimized: "/images/header.webp"
-      bg_image_primary_fallback: "/images/header.jpg"
+      bg_image_primary_optimized: "/images/DR_portada_0.jpg"
+      bg_image_primary_fallback: "/images/DR_portada_0.jpg"
       bg_image_secondary_optimized: "/images/leaf-light-grey.svg"
       bg_image_secondary_fallback: "/images/leaf-light-grey.svg"
       bg_image_product_optimized: "/images/leaf.svg"
