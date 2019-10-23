@@ -4,5 +4,4 @@ isHome: true
 layout: index
 
 ---
-# Si lo tenemos,  
-se lo llevamos. 
+# Si lo tenemos, se lo llevamos. 
