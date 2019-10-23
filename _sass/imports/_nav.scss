@@ -84,7 +84,7 @@
   }
 
   &--light {
-    color: $color_light;
+    color: $color_dark;
     .hamburger__icon-path {
       fill: $color_light;
     }
@@ -94,6 +94,7 @@
       color: $color_light;
     }
     &__button-icon {
+      display: flex;
       svg {
         path {
           fill: $color_light;
@@ -107,9 +108,11 @@
   @include container-item-properties;
   position: relative;
   z-index: 10;
-  padding-top: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   margin-left: auto;
   margin-right: auto;
+  background-color: white;
   @include smaller-than-tablet {
     padding-top: 25px;
   }
@@ -131,4 +134,5 @@
   }
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: bottom;
 }
