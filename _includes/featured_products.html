@@ -5,10 +5,7 @@
             <figure data-href="{{ product_page.url | relative_url }}" class="js-figure-link product-grid__item-figure js-figure-link">
                 
                 {% include picture.html image=product_page.images.featured.thumbnail alt=product_page.title cssClass='product-grid__item-image product-grid__item-image--featured' %}
-                <figcaption>
-                    
-                    {% include small_buy_button.html product_page=product_page component='product-grid' %}
-                </figcaption>
+                
             </figure>
             <div class="product-grid__definition">
                 <h3 class="product-grid__title"> <a href="{{ product_page.url | relative_url }}"> {{ product_page.title }} </a> </h3>
