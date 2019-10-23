@@ -11,12 +11,17 @@
     &__title {
         font-family: $font_family_primairy;
         h1 {
-            color: $color_default;
+            color: black;
             max-width: 720px;
             font-size: $spacing--unit*8;
             font-weight: 900;
             @include smaller-than-tablet { font-size: $font_size_large; }
         }
+    }
+
+    &__title-text {
+        background-color: sandybrown;
+        padding: 15px;
     }
 
     &__link {
