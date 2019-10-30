@@ -79,9 +79,9 @@ fields:
     - vinos-licores
     - snacks
     - alimentos
-    - higiene
     - hogar
     - cigarros
+    - higiene-belleza
 - type: boolean
   name: featured
   label: Featured
