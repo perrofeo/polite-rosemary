@@ -12,7 +12,7 @@ images:
       fallback: "/images/Teso-Del-Mar-Atun-Lomo-Trozos-140G.png"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Teso-Del-Mar-Atun-Lomo-Trozos-140G.png"
   featured:
     thumbnail:
       optimized: ''
