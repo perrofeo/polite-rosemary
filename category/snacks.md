@@ -5,6 +5,6 @@ title: Snacks
 section: Store
 menu:
   categories:
-    weight: 9
+    weight: 5
 
 ---

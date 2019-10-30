@@ -5,6 +5,6 @@ title: Bebidas
 section: Store
 menu:
   categories:
-    weight: 6
+    weight: 2
 
 ---

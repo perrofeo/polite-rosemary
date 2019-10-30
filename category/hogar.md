@@ -5,6 +5,6 @@ title: Hogar
 section: Store
 menu:
   categories:
-    weight: 12
+    weight: 8
 
 ---

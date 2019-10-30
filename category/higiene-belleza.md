@@ -5,6 +5,6 @@ title: Higiene & Belleza
 section: Store
 menu:
   categories:
-    weight: 11
+    weight: 7
 
 ---

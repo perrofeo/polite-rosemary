@@ -5,6 +5,6 @@ title: Alimentos
 section: Store
 menu:
   categories:
-    weight: 10
+    weight: 6
 
 ---

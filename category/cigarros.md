@@ -5,6 +5,6 @@ title: Cigarros
 section: Store
 menu:
   categories:
-    weight: 13
+    weight: 9
 
 ---
