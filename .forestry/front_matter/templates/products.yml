@@ -71,12 +71,17 @@ fields:
   label: Category
   config:
     source:
-      type: custom
+      type: simple
     options:
-    - summer
-    - europe
-    - bigplants
-    - cactuses
+    - ofertas
+    - bebidas
+    - cervezas
+    - vinos-licores
+    - snacks
+    - alimentos
+    - higiene
+    - hogar
+    - cigarros
 - type: boolean
   name: featured
   label: Featured
