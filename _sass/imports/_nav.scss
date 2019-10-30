@@ -62,6 +62,19 @@
     margin-left: auto;
     text-align: right;
   }
+  &__whatsapp {
+    display: flex;
+    align-items: center;
+    border: none;
+    font-size: 24px;
+    padding: 13px 22px;
+    border-radius: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    color: white;
+    width: fit-content;
+    background-color: black;
+}
 
   &--dark {
     color: $color_dark;
