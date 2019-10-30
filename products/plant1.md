@@ -19,7 +19,7 @@ images:
     original:
       optimized: "/images/plant1-featured-lg.webp"
       fallback: "/images/plant1-featured-lg.jpg"
-category: higiene
+category: higiene-belleza
 featured: true
 section: Store
 layout: product
