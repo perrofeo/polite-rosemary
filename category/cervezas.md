@@ -5,6 +5,6 @@ title: Cervezas
 section: Store
 menu:
   categories:
-    weight: 3
+    weight: 2
 
 ---

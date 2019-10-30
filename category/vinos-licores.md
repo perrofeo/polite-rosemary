@@ -5,6 +5,6 @@ title: Vinos & Licores
 section: Store
 menu:
   categories:
-    weight: 4
+    weight: 3
 
 ---
