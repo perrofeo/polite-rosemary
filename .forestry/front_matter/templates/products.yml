@@ -73,7 +73,6 @@ fields:
     source:
       type: simple
     options:
-    - ofertas
     - bebidas
     - cervezas
     - vinos-licores
