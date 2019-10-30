@@ -12,7 +12,7 @@ images:
       fallback: "/images/Ducal-Frij-Molid-Sab400G.png"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Ducal-Frij-Molid-Sab400G.png"
   featured:
     thumbnail:
       optimized: ''
