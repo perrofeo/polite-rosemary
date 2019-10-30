@@ -4,5 +4,6 @@ layout: store
 menu:
   main:
     weight: 1
+    title: Productos
 
 ---

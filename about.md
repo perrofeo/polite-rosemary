@@ -29,5 +29,6 @@ layout: about
 menu:
   main:
     weight: 2
+    title: Nosotros
 
 ---
