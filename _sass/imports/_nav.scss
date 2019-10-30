@@ -65,15 +65,15 @@
   &__whatsapp {
     display: flex;
     align-items: center;
-    border: none;
+    border: 2px solid black;
     font-size: 24px;
     padding: 13px 22px;
     border-radius: 10px;
     font-family: "Open Sans", sans-serif;
     font-weight: bold;
-    color: white;
+    color: black;
     width: fit-content;
-    background-color: black;
+    background-color: white;
 }
 
   &--dark {
