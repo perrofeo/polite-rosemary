@@ -89,11 +89,10 @@ fields:
   label: Section
   config:
     source:
-      type: custom
+      type: simple
     options:
     - Store
-    - About
-    - Home
+  default: Store
 - type: text
   name: layout
   label: Layout
