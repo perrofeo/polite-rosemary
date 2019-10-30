@@ -12,7 +12,7 @@ images:
       fallback: "/images/Coca-Cola-Sin-Azucar-1_5L.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Coca-Cola-Sin-Azucar-1_5L.jpg"
   featured:
     thumbnail:
       optimized: ''
