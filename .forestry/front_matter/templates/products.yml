@@ -1,6 +1,6 @@
 ---
 label: Product
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: id
@@ -89,11 +89,10 @@ fields:
   label: Section
   config:
     source:
-      type: custom
+      type: simple
     options:
     - Store
-    - About
-    - Home
+  default: Store
 - type: text
   name: layout
   label: Layout
@@ -110,4 +109,7 @@ pages:
 - products/plant6.md
 - products/plant4.md
 - products/plant9.md
-- products/plant2.md
+- products/gnocchi-frescos.md
+- products/pesto-tomate.md
+- products/frijoles-molidos.md
+- products/atún-lomo-en-trozos.md
