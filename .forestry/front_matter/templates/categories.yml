@@ -26,8 +26,6 @@ fields:
   config:
     required: true
 pages:
-- category/europe.md
-- category/summer.md
 - category/higiene-belleza.md
 - category/vinos-licores.md
 - category/hogar.md
