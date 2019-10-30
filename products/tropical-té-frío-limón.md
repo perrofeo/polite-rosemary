@@ -12,7 +12,7 @@ images:
       fallback: "/images/Tropical-Te-Melocoton-CeroTropical-2_5.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Tropical-Te-Melocoton-CeroTropical-2_5.jpg"
   featured:
     thumbnail:
       optimized: ''
