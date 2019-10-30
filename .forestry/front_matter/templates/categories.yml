@@ -27,8 +27,6 @@ fields:
     required: true
 pages:
 - category/europe.md
-- category/cactuses.md
-- category/bigplants.md
 - category/summer.md
 - category/higiene-belleza.md
 - category/vinos-licores.md
