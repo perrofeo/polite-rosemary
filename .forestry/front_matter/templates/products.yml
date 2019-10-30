@@ -71,12 +71,16 @@ fields:
   label: Category
   config:
     source:
-      type: custom
+      type: simple
     options:
-    - summer
-    - europe
-    - bigplants
-    - cactuses
+    - bebidas
+    - cervezas
+    - vinos-licores
+    - snacks
+    - alimentos
+    - hogar
+    - cigarros
+    - higiene-belleza
 - type: boolean
   name: featured
   label: Featured
@@ -100,10 +104,10 @@ fields:
 pages:
 - products/plant7.md
 - products/plant1.md
-- products/plant2.md
 - products/plant3.md
-- products/plant4.md
 - products/plant5.md
-- products/plant6.md
 - products/plant8.md
+- products/plant6.md
+- products/plant4.md
 - products/plant9.md
+- products/plant2.md

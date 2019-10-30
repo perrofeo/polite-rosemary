@@ -26,7 +26,11 @@ fields:
   config:
     required: true
 pages:
-- category/europe.md
-- category/cactuses.md
-- category/bigplants.md
-- category/summer.md
+- category/higiene-belleza.md
+- category/vinos-licores.md
+- category/hogar.md
+- category/cigarros.md
+- category/bebidas.md
+- category/cervezas.md
+- category/snacks.md
+- category/alimentos.md
