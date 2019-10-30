@@ -11,7 +11,7 @@ images:
       fallback: "/images/Filippo-B-Pesto-Tomate-190G.png"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Filippo-B-Pesto-Tomate-190G.png"
   featured:
     thumbnail:
       optimized: ''
