@@ -2,16 +2,26 @@
     @include container-item-properties;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
-    text-align: center;
+    text-align: left;
     padding-top: 175px;
     padding-bottom: 350px;
 
     &__title {
         font-family: $font_family_primairy;
+        display: flex;
+        flex-flow: wrap;
+        flex-direction: column;
         h1 {
             color: black;
+            max-width: 720px;
+            font-size: $spacing--unit*8;
+            font-weight: 900;
+            @include smaller-than-tablet { font-size: $font_size_large; }
+        }
+        h2 {
+            color: white;
             max-width: 720px;
             font-size: $spacing--unit*8;
             font-weight: 900;
@@ -20,11 +30,24 @@
     }
 
     &__title-text {
-        background-color: sandybrown;
+        background-color: rgb(240, 200, 70);
         padding: 15px;
+        max-width: 500px;
     }
 
+
     &__link {
-        margin-top: $spacing--unit*10;
+        margin-top: 30px;
+        display: flex;
+        align-items: center;
+        border: none;
+        font-size: 24px;
+        padding: 13px 22px;
+        border-radius: 10px;
+        font-family: "Open Sans", sans-serif;
+        font-weight: bold;
+        color: white;
+        width: fit-content;
+        background-color: black;
     }
 }
