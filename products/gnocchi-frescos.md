@@ -11,7 +11,7 @@ images:
       fallback: "/images/Roma-Gnocchi-Fresco-500G.png"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Roma-Gnocchi-Fresco-500G.png"
   featured:
     thumbnail:
       optimized: ''
