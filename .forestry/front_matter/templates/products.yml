@@ -1,6 +1,6 @@
 ---
 label: Product
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: id
