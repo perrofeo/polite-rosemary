@@ -1,18 +1,18 @@
 ---
 section: Store
 layout: product
-id: "3"
-title: Bavaria Gold Lt 350Ml 6 Pack
-description: Bavaria Gold Lt 350Ml 6 Pack
-price: 5.960,00
+id: ''
+title: Munchies Classic Mix 9 Oz
+description: Munchies Classic Mix 9 Oz
+price: 2.800,00
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
+      fallback: "/images/Munchies-Classic-Mix-9Oz.jpg"
     original:
       optimized: ''
-      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
+      fallback: "/images/Munchies-Classic-Mix-9Oz.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: cervezas
+category: snacks
 featured: false
 
 ---

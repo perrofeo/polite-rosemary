@@ -1,9 +1,8 @@
 ---
-title: Store
+title: Productos
 layout: store
 menu:
   main:
     weight: 1
-    title: Productos
 
 ---

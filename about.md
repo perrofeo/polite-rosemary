@@ -1,5 +1,5 @@
 ---
-title: About
+title: Nosotros
 headline: We are Planty
 introduction: Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of
   geeks from Québec City. Planty is a theme we built for [Stackbit](https://www.stackbit.com/),
@@ -29,6 +29,5 @@ layout: about
 menu:
   main:
     weight: 2
-    title: Nosotros
 
 ---

@@ -1,18 +1,18 @@
 ---
 section: Store
 layout: product
-id: "3"
-title: Bavaria Gold Lt 350Ml 6 Pack
-description: Bavaria Gold Lt 350Ml 6 Pack
-price: 5.960,00
+id: "5"
+title: Cacique Guaro 365ml
+description: Cacique Guaro 365ml
+price: 2.100,00
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
+      fallback: "/images/Cacique-Guaro-365ML.jpg"
     original:
       optimized: ''
-      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
+      fallback: "/images/Cacique-Guaro-365ML.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: cervezas
+category: vinos-licores
 featured: false
 
 ---

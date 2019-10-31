@@ -1,18 +1,18 @@
 ---
 section: Store
 layout: product
-id: "3"
-title: Bavaria Gold Lt 350Ml 6 Pack
-description: Bavaria Gold Lt 350Ml 6 Pack
-price: 5.960,00
+id: ''
+title: Imperial Silver Lata 350ml
+description: Imperial Silver Lata 350ml
+price: '895,00'
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
+      fallback: "/images/Imperial-Cerv-Lta-Silver -350Ml.jpg"
     original:
       optimized: ''
-      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
+      fallback: "/images/Imperial-Cerv-Lta-Silver -350Ml.jpg"
   featured:
     thumbnail:
       optimized: ''

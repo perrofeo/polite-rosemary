@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "4"
 title: Bolsa Hielo 3.5 Kg
 description: Country Ice Hielo 3.5 Kg
 price: 2.150,00

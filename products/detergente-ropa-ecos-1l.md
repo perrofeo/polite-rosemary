@@ -1,18 +1,18 @@
 ---
 section: Store
 layout: product
-id: "3"
-title: Bavaria Gold Lt 350Ml 6 Pack
-description: Bavaria Gold Lt 350Ml 6 Pack
-price: 5.960,00
+id: ''
+title: Detergente Ropa Ecos 1L
+description: Detergente Ropa Ecos 1L
+price: 4.300,00
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
+      fallback: "/images/Detergente-Ropa-Ecos-1L.png"
     original:
       optimized: ''
-      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
+      fallback: "/images/Detergente-Ropa-Ecos-1L.png"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: cervezas
+category: hogar
 featured: false
 
 ---

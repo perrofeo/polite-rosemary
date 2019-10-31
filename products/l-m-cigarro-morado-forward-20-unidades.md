@@ -1,18 +1,18 @@
 ---
 section: Store
 layout: product
-id: "3"
-title: Bavaria Gold Lt 350Ml 6 Pack
-description: Bavaria Gold Lt 350Ml 6 Pack
-price: 5.960,00
+id: ''
+title: Cigarro Marlboro Rojo 20 unidades
+description: Cigarro Marlboro Rojo 20 unidades
+price: 2.200,00
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
+      fallback: "/images/Cigarro-Marlboro-Rojo-20-U.png"
     original:
       optimized: ''
-      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
+      fallback: "/images/Cigarro-Marlboro-Rojo-20-U.png"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: cervezas
+category: cigarros
 featured: false
 
 ---
