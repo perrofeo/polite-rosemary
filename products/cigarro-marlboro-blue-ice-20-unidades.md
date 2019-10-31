@@ -9,10 +9,10 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/ Cigarro-Marlboro-Blue-Ice-20-U.png"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/ Cigarro-Marlboro-Blue-Ice-20-U.png"
   featured:
     thumbnail:
       optimized: ''
