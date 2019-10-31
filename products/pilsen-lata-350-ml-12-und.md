@@ -21,6 +21,6 @@ images:
       optimized: ''
       fallback: "/images/Pilsen-Lata-350-ML-12-Und.jpg"
 category: cervezas
-featured: false
+featured: true
 
 ---
