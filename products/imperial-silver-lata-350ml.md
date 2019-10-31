@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "15"
 title: Imperial Silver Lata 350ml
 description: Imperial Silver Lata 350ml
 price: '895,00'

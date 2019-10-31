@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "19"
 title: Pilsen Lata 350 ml - 12 pack
 description: Pilsen Lata 350 ml - 12 Und
 price: 9.990,00

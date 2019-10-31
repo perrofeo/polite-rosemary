@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "20"
 title: Platos Ecosunrise 10 unidades
 description: Platos Desechables Ecosunrise N9, 10 unidades
 price: 1.800,00
