@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/detergente-ropa-ecos-1l.md
 - products/condones-durex-sensitivo-1x3-unidades.md
 - products/coca-cola-sin-azúcar-1-5-l.md
 - products/l-m-cigarro-morado-forward-20-unidades.md
@@ -118,7 +119,6 @@ pages:
 - products/munchies-classic-mix-9-oz.md
 - products/doritos-nacho-cheese-198g.md
 - products/platos-ecosunrise-n9-10-unidades.md
-- products/detergente-ropa-ecos-1l.md
 - products/toallas-sanitarias-kotex-sport-con-alas-10-uds.md
 - products/imperial-silver-lata-350ml.md
 - products/pilsen-lata-350-ml-12-und.md

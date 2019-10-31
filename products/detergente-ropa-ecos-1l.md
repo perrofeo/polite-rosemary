@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "11"
 title: Detergente Ropa Ecos 1L
 description: Detergente Ropa Ecos 1L
 price: 4.300,00
