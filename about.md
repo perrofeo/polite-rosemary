@@ -1,11 +1,10 @@
 ---
 title: Nosotros
 headline: Somos Ramón Express
-introduction: "**Ramón Express** is simply dummy text of the printing and typesetting
-  industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-  1500s, when an unknown printer took a galley of type and scrambled it to make a
-  type specimen book. It has survived not only five centuries, but also the leap into
-  electronic typesetting, remaining essentially unchanged."
+introduction: "**Ramón Express** is etiam ac ullamcorper libero. Sed ornare tempus
+  mi, vitae venenatis nunc euismod id. Cras elementum mi massa, quis varius ipsum
+  lacinia condimentum. Maecenas dictum lorem sem, et tincidunt sapien malesuada at.
+  Aliquam leo velit, placerat eget pellentesque at, tempor id diam."
 bulletpoints:
 - title: Fácil como mandar un Whats
   description: Ahora puedes ordenar cualquier producto de nuestra tienda por Whatsapp,
