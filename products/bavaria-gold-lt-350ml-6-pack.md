@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "3"
 title: Bavaria Gold Lt 350Ml 6 Pack
 description: Bavaria Gold Lt 350Ml 6 Pack
 price: 5.960,00

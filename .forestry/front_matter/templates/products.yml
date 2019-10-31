@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/bavaria-gold-lt-350ml-6-pack.md
 - products/atún-lomo-en-trozos.md
 - products/aceite-oliva-extra-virgen.md
 - products/cacique-guaro-365ml.md
@@ -119,7 +120,6 @@ pages:
 - products/cigarro-marlboro-blue-ice-20-unidades.md
 - products/imperial-silver-lata-350ml.md
 - products/pilsen-lata-350-ml-12-und.md
-- products/bavaria-gold-lt-350ml-6-pack.md
 - products/tropical-té-frío-limón.md
 - products/bolsa-hielo-3-5-kg.md
 - products/pepsi-black-2-5-l.md
