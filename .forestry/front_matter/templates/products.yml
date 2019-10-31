@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/toallas-sanitarias-kotex-sport-con-alas-10-uds.md
 - products/tenedor-ecosunrise-10-unidades.md
 - products/soldanza-yuquitas-cebolla-135g.md
 - products/platos-ecosunrise-n9-10-unidades.md
@@ -125,5 +126,4 @@ pages:
 - products/atún-lomo-en-trozos.md
 - products/aceite-oliva-extra-virgen.md
 - products/casillero-diablo-sauvignon-blanc-750ml.md
-- products/toallas-sanitarias-kotex-sport-con-alas-10-uds.md
 - products/tropical-té-frío-limón.md
