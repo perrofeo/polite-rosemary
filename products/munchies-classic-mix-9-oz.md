@@ -22,6 +22,5 @@ images:
       fallback: ''
 category: snacks
 featured: false
-published: false
 
 ---
