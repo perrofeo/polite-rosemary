@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/pilsen-lata-350-ml-12-und.md
 - products/pesto-tomate.md
 - products/pepsi-black-2-5-l.md
 - products/munchies-classic-mix-9-oz.md
@@ -125,6 +126,5 @@ pages:
 - products/casillero-diablo-sauvignon-blanc-750ml.md
 - products/platos-ecosunrise-n9-10-unidades.md
 - products/toallas-sanitarias-kotex-sport-con-alas-10-uds.md
-- products/pilsen-lata-350-ml-12-und.md
 - products/tropical-té-frío-limón.md
 - products/plant7.md
