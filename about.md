@@ -17,11 +17,12 @@ bulletpoints:
   image:
     optimized: ''
     fallback: images/nan_talk.jpg
-- title: We think plants are the future
-  description: Word. But good **code** _can_ solve a lots of problems, too. New _and_
-    old. That’s why we help beginners get started with web development through free
-    content and tools, like this theme. We also believe [the JAMstack](https://jamstack.org/)
-    might be one solid pillar on which we build that future.
+- title: Tradición y confianza
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique
+    dui nec dui sodales commodo. In hac habitasse platea dictumst. Nulla non quam
+    porttitor, elementum eros ac, rhoncus lectus. Vestibulum ante ipsum primis in
+    faucibus orci luctus et ultrices posuere cubilia Curae; Ut porttitor vel purus
+    ac consectetur. Mauris eu cursus arcu.
   image:
     optimized: images/team.webp
     fallback: images/team.jpg
