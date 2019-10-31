@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/pesto-tomate.md
 - products/munchies-classic-mix-9-oz.md
 - products/pilsen-lata-350-ml-12-und.md
 - products/casillero-diablo-sauvignon-blanc-750ml.md
@@ -110,7 +111,6 @@ pages:
 - products/tenedor-ecosunrise-10-unidades.md
 - products/soldanza-yuquitas-cebolla-135g.md
 - products/platos-ecosunrise-n9-10-unidades.md
-- products/pesto-tomate.md
 - products/pepsi-black-2-5-l.md
 - products/imperial-silver-lata-350ml.md
 - products/gnocchi-frescos.md
