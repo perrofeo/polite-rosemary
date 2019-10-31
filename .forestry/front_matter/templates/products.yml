@@ -101,9 +101,9 @@ fields:
   config:
     required: true
 pages:
+- products/l-m-cigarro-morado-forward-20-unidades.md
 - products/cigarro-marlboro-gold-original-20-unidades.md
 - products/cigarro-marlboro-blue-ice-20-unidades.md
-- products/l-m-cigarro-morado-forward-20-unidades.md
 - products/imperial-silver-lata-350ml.md
 - products/pilsen-lata-350-ml-12-und.md
 - products/bavaria-gold-lt-350ml-6-pack.md
