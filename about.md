@@ -1,21 +1,21 @@
 ---
-title: Somos Ramón Express
-headline: Tu Super Express en Curridabat
+title: Nosotros
+headline: Somos Ramón Express
 introduction: "**Ramón Express** is simply dummy text of the printing and typesetting
   industry. Lorem Ipsum has been the industry's standard dummy text ever since the
   1500s, when an unknown printer took a galley of type and scrambled it to make a
   type specimen book. It has survived not only five centuries, but also the leap into
   electronic typesetting, remaining essentially unchanged."
 bulletpoints:
-- title: We love plants
-  description: Now THAT is true, but we love web development even more. We talk about
-    it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft live demos
-    and open source these bad boys [on GitHub](https://github.com/snipcart). Matter
-    of fact, this Planty theme [is open source too](https://github.com/snipcart/stackbit-theme-planty)!
-    If you spot any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-    Michael, you’re good.
+- title: Fácil como mandar un Whats
+  description: Ahora puedes ordenar cualquier producto de nuestra tienda por Whatsapp,
+    sin complicaciones. Somos un negocio familiar establecido en el corazón de Curridabat
+    hace más de 30 años. Vamos para la tercera generación y, con el deseo de seguir
+    llevando calidad, confianza y la mejor atención a nuestros clientes, decidimos
+    poner un toque de tecnologia para que nuestros productos lleguen hasta la puerta
+    de tu casa.
   image:
-    optimized: images/nan_talk.webp
+    optimized: ''
     fallback: images/nan_talk.jpg
 - title: We think plants are the future
   description: Word. But good **code** _can_ solve a lots of problems, too. New _and_
