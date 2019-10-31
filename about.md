@@ -1,11 +1,11 @@
 ---
 title: Nosotros
-headline: We are Planty
-introduction: Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of
-  geeks from Québec City. Planty is a theme we built for [Stackbit](https://www.stackbit.com/),
-  a killer JAMstack site-builder. To enable e-commerce on Planty, you’ll need to [sign
-  up for Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-  required.
+headline: Somos Ramón Express
+introduction: "**Ramón Express** is simply dummy text of the printing and typesetting
+  industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+  1500s, when an unknown printer took a galley of type and scrambled it to make a
+  type specimen book. It has survived not only five centuries, but also the leap into
+  electronic typesetting, remaining essentially unchanged."
 bulletpoints:
 - title: We love plants
   description: Now THAT is true, but we love web development even more. We talk about
