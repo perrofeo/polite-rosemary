@@ -101,8 +101,8 @@ fields:
   config:
     required: true
 pages:
-- products/soldanza-yuquitas-cebolla-135g.md
 - products/tenedor-ecosunrise-10-unidades.md
+- products/soldanza-yuquitas-cebolla-135g.md
 - products/platos-ecosunrise-n9-10-unidades.md
 - products/pilsen-lata-350-ml-12-und.md
 - products/pesto-tomate.md
