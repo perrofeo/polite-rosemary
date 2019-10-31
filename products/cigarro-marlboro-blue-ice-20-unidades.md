@@ -20,7 +20,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: cigarros
 featured: false
 
 ---
