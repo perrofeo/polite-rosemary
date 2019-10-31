@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "9"
 title: Coca Cola Sin Azúcar 1.5 L
 description: Coca Cola Sin Azúcar 1.5 L
 price: 1.050,00

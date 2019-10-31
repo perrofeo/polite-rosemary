@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "7"
 title: Cigarro Marlboro Gold Original 20 unidades
 description: Cigarro Marlboro Gold Original 20 unidades
 price: 2.200,00

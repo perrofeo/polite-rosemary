@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "13"
 title: Frijoles Molidos
 description: Ducal Frijoles Negros Molidos 400g
 price: '990,00'
