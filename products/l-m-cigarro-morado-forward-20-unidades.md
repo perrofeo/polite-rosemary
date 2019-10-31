@@ -2,17 +2,17 @@
 section: Store
 layout: product
 id: ''
-title: Cigarro L&M Morado Forward 20 unidades
-description: Cigarro L&M Morado Forward 20 unidades
-price: 1.700,00
+title: Cigarro Marlboro Rojo 20 unidades
+description: Cigarro Marlboro Rojo 20 unidades
+price: 2.200,00
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Cigarro-Marlboro-Rojo-20-U.png"
     original:
       optimized: ''
-      fallback: "/images/Cigarro_LM-Morado-Forward-20U.jpg"
+      fallback: "/images/Cigarro-Marlboro-Rojo-20-U.png"
   featured:
     thumbnail:
       optimized: ''
