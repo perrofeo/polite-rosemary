@@ -101,6 +101,8 @@ fields:
   config:
     required: true
 pages:
+- products/tenedor-ecosunrise-10-unidades.md
+- products/soldanza-yuquitas-cebolla-135g.md
 - products/platos-ecosunrise-n9-10-unidades.md
 - products/pilsen-lata-350-ml-12-und.md
 - products/pesto-tomate.md
@@ -115,8 +117,6 @@ pages:
 - products/coca-cola-sin-azúcar-1-5-l.md
 - products/l-m-cigarro-morado-forward-20-unidades.md
 - products/casillero-del-diablo-carmenere-750ml.md
-- products/soldanza-yuquitas-cebolla-135g.md
-- products/tenedor-ecosunrise-10-unidades.md
 - products/cigarro-marlboro-gold-original-20-unidades.md
 - products/cigarro-marlboro-blue-ice-20-unidades.md
 - products/cacique-guaro-365ml.md

@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "21"
 title: Soldanza Yuquitas Cebolla 135G
 description: Soldanza Yuquitas Cebolla 135G
 price: 1.055,00
