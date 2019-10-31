@@ -20,7 +20,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: higiene-belleza
 featured: false
 
 ---
