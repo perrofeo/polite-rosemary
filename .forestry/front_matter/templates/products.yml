@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/doritos-nacho-cheese-198g.md
 - products/platos-ecosunrise-n9-10-unidades.md
 - products/tenedor-ecosunrise-10-unidades.md
 - products/detergente-ropa-ecos-1l.md
