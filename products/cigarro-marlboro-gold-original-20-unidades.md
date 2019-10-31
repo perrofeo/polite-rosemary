@@ -9,10 +9,10 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Cigarro-Marlboro-Gold-Orig-20U.jpg"
+      fallback: "/images/ Cigarro-Marlboro-Gold-Original-20-u.png"
     original:
       optimized: ''
-      fallback: "/images/Cigarro-Marlboro-Gold-Orig-20U.jpg"
+      fallback: ''
   featured:
     thumbnail:
       optimized: ''
