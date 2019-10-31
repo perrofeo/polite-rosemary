@@ -27,10 +27,10 @@ fields:
     required: true
 pages:
 - category/higiene-belleza.md
-- category/vinos-licores.md
-- category/hogar.md
 - category/cigarros.md
-- category/bebidas.md
-- category/cervezas.md
-- category/snacks.md
+- category/hogar.md
 - category/alimentos.md
+- category/snacks.md
+- category/vinos-licores.md
+- category/cervezas.md
+- category/bebidas.md

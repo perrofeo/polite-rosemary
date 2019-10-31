@@ -101,20 +101,20 @@ fields:
   config:
     required: true
 pages:
-- products/plant7.md
-- products/plant1.md
-- products/plant3.md
-- products/plant5.md
-- products/plant8.md
-- products/plant6.md
-- products/plant4.md
-- products/plant9.md
+- products/tropical-té-frío-limón.md
+- products/bolsa-hielo-3-5-kg.md
+- products/pepsi-black-2-5-l.md
+- products/coca-cola-sin-azúcar-1-5-l.md
+- products/aceite-oliva-extra-virgen.md
+- products/atún-lomo-en-trozos.md
+- products/frijoles-molidos.md
 - products/gnocchi-frescos.md
 - products/pesto-tomate.md
-- products/frijoles-molidos.md
-- products/atún-lomo-en-trozos.md
-- products/aceite-oliva-extra-virgen.md
-- products/coca-cola-sin-azúcar-1-5-l.md
-- products/tropical-té-frío-limón.md
-- products/pepsi-black-2-5-l.md
-- products/bolsa-hielo-3-5-kg.md
+- products/plant1.md
+- products/plant5.md
+- products/plant7.md
+- products/plant8.md
+- products/plant9.md
+- products/plant6.md
+- products/plant3.md
+- products/plant4.md
