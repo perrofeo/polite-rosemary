@@ -57,7 +57,7 @@ sections:
 - type: directory
   path: products
   label: Product
-  create: document
+  create: all
   match: "**/*"
   templates:
   - products
