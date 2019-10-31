@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "10"
 title: Condones Durex Sensitivo 1x3 unidades
 description: Condones Durex Sensitivo 1x3 unidades
 price: 2.300,00
