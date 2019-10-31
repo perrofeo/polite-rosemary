@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: "/images/Filippo-B-Pesto-Tomate-190G.png"
 category: alimentos
-featured: false
+featured: true
 section: Store
 
 ---
