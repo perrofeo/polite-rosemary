@@ -12,7 +12,7 @@ images:
       fallback: "/images/ Cigarro-Marlboro-Gold-Original-20-u.png"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/ Cigarro-Marlboro-Gold-Original-20-u.png"
   featured:
     thumbnail:
       optimized: ''
