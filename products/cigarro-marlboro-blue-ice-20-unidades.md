@@ -2,7 +2,7 @@
 section: Store
 layout: product
 id: ''
-title: " Cigarro Marlboro Blue Ice 20 unidades"
+title: Cigarro Marlboro Blue Ice 20 unidades
 description: " Cigarro Marlboro Blue Ice 20 unidades"
 price: 2.200,00
 images:
