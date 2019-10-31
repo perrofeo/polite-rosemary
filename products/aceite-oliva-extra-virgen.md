@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "1"
 title: Aceite Oliva Extra Virgen
 description: Filippo B. Aceite Oliva Extra Virgen 750 ml
 price: 7.020,00

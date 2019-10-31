@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/aceite-oliva-extra-virgen.md
 - products/cacique-guaro-365ml.md
 - products/casillero-del-diablo-carmenere-750ml.md
 - products/casillero-diablo-sauvignon-blanc-750ml.md
@@ -122,7 +123,6 @@ pages:
 - products/bolsa-hielo-3-5-kg.md
 - products/pepsi-black-2-5-l.md
 - products/coca-cola-sin-azúcar-1-5-l.md
-- products/aceite-oliva-extra-virgen.md
 - products/atún-lomo-en-trozos.md
 - products/frijoles-molidos.md
 - products/gnocchi-frescos.md
