@@ -101,8 +101,8 @@ fields:
   config:
     required: true
 pages:
-- products/casillero-diablo-sauvignon-blanc-750ml.md
 - products/casillero-del-diablo-carmenere-750ml.md
+- products/casillero-diablo-sauvignon-blanc-750ml.md
 - products/soldanza-yuquitas-cebolla-135g.md
 - products/munchies-classic-mix-9-oz.md
 - products/doritos-nacho-cheese-198g.md
