@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "16"
 title: Munchies Classic Mix 9 Oz
 description: Munchies Classic Mix 9 Oz
 price: 2.800,00

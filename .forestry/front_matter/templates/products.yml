@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/munchies-classic-mix-9-oz.md
 - products/imperial-silver-lata-350ml.md
 - products/gnocchi-frescos.md
 - products/frijoles-molidos.md
@@ -120,7 +121,6 @@ pages:
 - products/atún-lomo-en-trozos.md
 - products/aceite-oliva-extra-virgen.md
 - products/casillero-diablo-sauvignon-blanc-750ml.md
-- products/munchies-classic-mix-9-oz.md
 - products/platos-ecosunrise-n9-10-unidades.md
 - products/toallas-sanitarias-kotex-sport-con-alas-10-uds.md
 - products/pilsen-lata-350-ml-12-und.md
