@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "25"
 title: Vino Casillero Del Diablo Carmenere 750ml
 description: Vino Casillero Del Diablo Carmenere 750ml, Chile
 price: 9.300,00
