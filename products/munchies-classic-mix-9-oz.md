@@ -16,10 +16,10 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Munchies-Classic-Mix-9Oz.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Munchies-Classic-Mix-9Oz.jpg"
 category: snacks
 featured: false
 
