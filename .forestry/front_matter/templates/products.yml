@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/doritos-nacho-cheese-198g.md
 - products/detergente-ropa-ecos-1l.md
 - products/condones-durex-sensitivo-1x3-unidades.md
 - products/coca-cola-sin-azúcar-1-5-l.md
@@ -117,7 +118,6 @@ pages:
 - products/aceite-oliva-extra-virgen.md
 - products/casillero-diablo-sauvignon-blanc-750ml.md
 - products/munchies-classic-mix-9-oz.md
-- products/doritos-nacho-cheese-198g.md
 - products/platos-ecosunrise-n9-10-unidades.md
 - products/toallas-sanitarias-kotex-sport-con-alas-10-uds.md
 - products/imperial-silver-lata-350ml.md
