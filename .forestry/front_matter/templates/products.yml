@@ -101,11 +101,11 @@ fields:
   config:
     required: true
 pages:
+- products/casillero-del-diablo-carmenere-750ml.md
 - products/munchies-classic-mix-9-oz.md
 - products/pilsen-lata-350-ml-12-und.md
 - products/pesto-tomate.md
 - products/casillero-diablo-sauvignon-blanc-750ml.md
-- products/casillero-del-diablo-carmenere-750ml.md
 - products/tropical-té-frío-limón.md
 - products/toallas-sanitarias-kotex-sport-con-alas-10-uds.md
 - products/tenedor-ecosunrise-10-unidades.md

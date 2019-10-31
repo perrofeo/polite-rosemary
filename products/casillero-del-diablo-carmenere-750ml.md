@@ -16,11 +16,11 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Vino-Casillero-Del-Diablo-Carme-750ml.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Vino-Casillero-Del-Diablo-Carme-750ml.jpg"
 category: vinos-licores
-featured: false
+featured: true
 
 ---
