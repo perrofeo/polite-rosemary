@@ -101,11 +101,11 @@ fields:
   config:
     required: true
 pages:
+- products/cacique-guaro-365ml.md
 - products/bolsa-hielo-3-5-kg.md
 - products/bavaria-gold-lt-350ml-6-pack.md
 - products/atún-lomo-en-trozos.md
 - products/aceite-oliva-extra-virgen.md
-- products/cacique-guaro-365ml.md
 - products/casillero-del-diablo-carmenere-750ml.md
 - products/casillero-diablo-sauvignon-blanc-750ml.md
 - products/soldanza-yuquitas-cebolla-135g.md
