@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "2"
 title: Atún Lomo en Trozos
 description: Tesoro Del Mar Atún Lomo Trozos 140 G
 price: 1.870,00
