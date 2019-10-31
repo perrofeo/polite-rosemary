@@ -2,17 +2,17 @@
 section: Store
 layout: product
 id: ''
-title: Tropical Té Frío Limón
-description: Tropical Té Frio Limón 500 ml
-price: '800,00'
+title: Bavaria Gold Lt 350Ml 6 Pack
+description: Bavaria Gold Lt 350Ml 6 Pack
+price: 5.960,00
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/Tropical-Te-Melocoton-CeroTropical-2_5.jpg"
+      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
     original:
       optimized: ''
-      fallback: "/images/Tropical-Te-Melocoton-CeroTropical-2_5.jpg"
+      fallback: "/images/Bavaria-Gold-Lt-350Ml-6 Pack.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -20,7 +20,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: bebidas
+category: cervezas
 featured: false
 
 ---
