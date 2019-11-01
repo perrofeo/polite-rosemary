@@ -108,9 +108,10 @@
     }
     &__button-icon {
       display: flex;
+      margin-left: 30px;
       svg {
         path {
-          fill: $color_light;
+          fill: black;
         }
       }
     }
