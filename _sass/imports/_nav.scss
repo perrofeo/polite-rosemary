@@ -107,6 +107,7 @@
       color: $color_light;
     }
     &__button-icon {
+      z-index: 30;
       display: flex;
       margin-left: 30px;
       svg {
