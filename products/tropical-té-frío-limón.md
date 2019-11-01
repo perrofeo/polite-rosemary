@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "24"
 title: Tropical Té Frío Limón
 description: Tropical Té Frio Limón 500 ml
 price: '800,00'

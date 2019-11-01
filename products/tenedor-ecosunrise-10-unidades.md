@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "22"
 title: Tenedor Ecosunrise 10 unidades
 description: Tenedor Desechable Ecosunrise 10 unidades
 price: '500,00'

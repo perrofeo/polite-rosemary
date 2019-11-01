@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: ''
+id: "26"
 title: Vino Casillero Del Diablo Sauvignon Blanc 750ml
 description: Vino Casillero Del Diablo Sauvignon Blanc 750ml, Chile
 price: 9.300,00
