@@ -1,5 +1,5 @@
 ---
-title: Productos
+title: Tienda
 layout: store
 menu:
   main:
