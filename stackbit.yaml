@@ -9,8 +9,8 @@ dataDir: _data
 pagesDir: ''
 pageLayoutKey: layout
 metadata:
-  title: Snipcart
-  description: An e-commerce theme powered by Snipcart
+  title: Motxuelo
+  description: An e-commerce theme powered by Motxuelo
   author: Snipcart
   authorURL: 'https://snipcart.com'
 models:
