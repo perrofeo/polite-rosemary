@@ -11,9 +11,12 @@
         <link rel="stylesheet" href="{{ site.snipcart_css }}" />
         <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
         <link rel="icon" type="image/png" href="{{ 'images/favicon.png' | relative_url }}">
+        <!--Floating WhatsApp css-->
+        <link rel="stylesheet" href="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/floating-wpp.min.css">
         
     </head>
     <body>
+      <div id="WAButton"></div>
       <div class="whatsapp-corner">
         <a href="#">
           <svg version="1.1" id="whatsapp-corner" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -38,7 +41,11 @@
       </div>
         
         {{ content }}
-        <script src="{{ 'js/main.js' | relative_url }}"></script>
+        <!--Jquery-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+        <!--Floating WhatsApp javascript-->
+        <script type="text/javascript" src="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/floating-wpp.min.js"></script>
+         <script src="{{ 'js/main.js' | relative_url }}"></script>
         <script src="{{ site.snipcart_js }}" defer></script>
         <div hidden id="snipcart" data-api-key="{{ site.snipcart_api_key }}">
           <cart-header title="Planty">
