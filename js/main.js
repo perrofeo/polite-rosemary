@@ -702,7 +702,6 @@ $(function() {
     headerTitle: 'Ramón Express', //Popup Title
     popupMessage: 'Hola, ¿quieres ordenar?', //Popup Message
     showPopup: true, //Enables popup display
-    autoOpenTimeout: 2000,
     buttonImage: '<img src="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/whatsapp.svg" />', //Button Image
     //headerColor: 'crimson', //Custom header color
     //backgroundColor: 'crimson', //Custom background button color
