@@ -1,7 +1,7 @@
 ---
 baseurl: "/"
 permalink: "/:title/"
-title: Snipcart
+title: Ramón Express
 snipcart_js: https://cdn.snipcart.com/themes/v3.0.0/default/snipcart.js
 snipcart_css: https://cdn.snipcart.com/themes/v3.0.0/default/snipcart.css
 snipcart_api_key: YTc2MDI1ODMtNjg4Zi00ZTFmLWI5ZDQtY2RlMzY5M2U3OWNmNjM3MDczNjc4NjQ5ODc5NDky

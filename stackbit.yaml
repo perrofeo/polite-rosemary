@@ -11,8 +11,8 @@ pageLayoutKey: layout
 metadata:
   title: Motxuelo
   description: An e-commerce theme powered by Motxuelo
-  author: Snipcart
-  authorURL: 'https://snipcart.com'
+  author: Motxuelo
+  authorURL: 'http://motxuelo.com/'
 models:
   config:
     type: config
