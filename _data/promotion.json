@@ -2,8 +2,8 @@
   "title": "Fácil como mandar un Whats",
   "subtitle": "envíos a partir de ‎₡800",
   "image": {
-    "optimized": "images/promo.webp",
-    "fallback": "images/promo.jpg"
+    "optimized": "",
+    "fallback": "/images/DR_promo.jpg"
   },
   "cta": {
     "text": "Haz tu pedido",
