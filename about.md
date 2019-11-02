@@ -24,7 +24,7 @@ bulletpoints:
     ac consectetur. Mauris eu cursus arcu.
   image:
     optimized: ''
-    fallback: "/images/DR_nosotros.jpg"
+    fallback: images/team.jpg
 layout: about
 menu:
   main:
