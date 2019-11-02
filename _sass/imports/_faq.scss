@@ -55,7 +55,7 @@
 
   &__contact {
     display: flex;
-    background-color: $color_dark;
+    background-color: white;
     @include smaller-than-tablet {
       flex-direction: column;
     }
