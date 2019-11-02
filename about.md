@@ -15,7 +15,7 @@ bulletpoints:
     de tu casa.
   image:
     optimized: ''
-    fallback: images/nan_talk.jpg
+    fallback: "/images/DR_nosotros.jpg"
 - title: Tradición y confianza
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique
     dui nec dui sodales commodo. In hac habitasse platea dictumst. Nulla non quam
