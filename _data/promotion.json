@@ -3,7 +3,7 @@
   "subtitle": "envíos a partir de ‎₡800",
   "image": {
     "optimized": "images/promo.webp",
-    "fallback": "images/promo.jpg"
+    "fallback": "/images/DR_promo.jpg"
   },
   "cta": {
     "text": "Haz tu pedido",
