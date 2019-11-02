@@ -23,8 +23,8 @@ bulletpoints:
     faucibus orci luctus et ultrices posuere cubilia Curae; Ut porttitor vel purus
     ac consectetur. Mauris eu cursus arcu.
   image:
-    optimized: images/team.webp
-    fallback: images/team.jpg
+    optimized: ''
+    fallback: "/images/DR_nosotros.jpg"
 layout: about
 menu:
   main:
