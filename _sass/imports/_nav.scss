@@ -46,6 +46,7 @@
     height: 80px;
     @include smaller-than-tablet {
       max-width: 150px;
+      height: auto;
     }
   }
   &__total-items {
