@@ -40,7 +40,7 @@ layout: body
         </section>
 
         <section class="content__row">
-            <h2 class="content__row-title">Related</h2>
+            <h2 class="content__row-title">Relacionados</h2>
             {% assign product_pages = '/products' | get_pages | where_exp: "item", "item.category == category_page.slug" | sort: 'title' | where_exp: "item", "item.id != page.id" %}
             
             {% include product_grid.html product_pages=product_pages cssClass='product-grid--draggable' %}
