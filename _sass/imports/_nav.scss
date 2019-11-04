@@ -46,7 +46,7 @@
     height: 70px;
     @include smaller-than-tablet {
       max-width: 150px;
-      height: auto;
+      height: 40px;
     }
   }
   &__total-items {
@@ -65,6 +65,9 @@
     align-items: center;
     margin-left: auto;
     text-align: right;
+    @include smaller-than-tablet {
+      margin-left: 10px;
+    }
   }
   &__whatsapp {
     display: flex;
