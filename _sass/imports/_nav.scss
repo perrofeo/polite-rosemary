@@ -41,12 +41,16 @@
 
   &__logo {
     width: 20%;
+    @include smaller-than-tablet {
+      width: 30%;
+    }
   }
   &__logo-image {
     height: 70px;
     @include smaller-than-tablet {
       max-width: 150px;
       height: auto;
+      width: 100%;
     }
   }
   &__total-items {
