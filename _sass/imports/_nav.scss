@@ -43,7 +43,7 @@
     width: 20%;
   }
   &__logo-image {
-    height: 80px;
+    height: 70px;
     @include smaller-than-tablet {
       max-width: 150px;
       height: auto;
