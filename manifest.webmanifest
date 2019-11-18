@@ -1,0 +1,20 @@
+{"dir" : "ltr",
+    "lang" : "es",
+    "name" : "Ramón Súper Express",
+    "scope" : "/",
+    "display" : "standalone",
+    "start_url" : "https://polite-rosemary-f4937.netlify.com/",
+    "short_name" : "Ramón Súper Express",
+    "theme_color" : "#ffff00",
+    "description" : "Tu supermercado de confianza, ahora online",
+    "orientation" : "any",
+    "background_color" : "#ffffff",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "https://polite-rosemary-f4937.netlify.com/images/favicon.png",
+            "sizes": "512x512"
+        }
+    ]}
