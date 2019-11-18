@@ -697,7 +697,7 @@ document.querySelectorAll('.js-figure-link').forEach((l) => {
 
 $(function() {
   $('#WAButton').floatingWhatsApp({
-    phone: '1231231231', //WhatsApp Business phone number International format-
+    phone: '50663521169', //WhatsApp Business phone number International format-
     //Get it with Toky at https://toky.co/en/features/whatsapp.
     headerTitle: 'Ramón Express', //Popup Title
     popupMessage: 'Hola, ¿quieres ordenar?', //Popup Message
