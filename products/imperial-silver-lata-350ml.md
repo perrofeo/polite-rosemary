@@ -4,7 +4,7 @@ layout: product
 id: "60"
 title: Imperial Silver Lata 350ml
 description: Imperial Silver Lata 350ml
-price: "900"
+price: '900,00'
 images:
   default:
     thumbnail:
