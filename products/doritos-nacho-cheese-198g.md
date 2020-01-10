@@ -1,10 +1,10 @@
 ---
 section: Store
 layout: product
-id: "12"
-title: Doritos Nacho Cheese 198G
-description: Doritos Nacho Cheese 198G
-price: 2.650,00
+id: "80"
+title: Doritos Nacho Cheese 150G
+description: Doritos Nacho Cheese 150G
+price: 1.150,00
 images:
   default:
     thumbnail:
