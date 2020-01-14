@@ -101,7 +101,6 @@ fields:
   config:
     required: true
 pages:
-- products/atún-lomo-en-trozos.md
 - products/bavaria-gold-lt-350ml-6-pack.md
 - products/bolsa-hielo-3-5-kg.md
 - products/cacique-guaro-365ml.md
