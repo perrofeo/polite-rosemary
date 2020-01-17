@@ -8,18 +8,18 @@ price: '1,450.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/77-Tosty-Mix-300g.webp"
+      fallback: "/images/77-Tosty-Mix-300g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/77-Tosty-Mix-300g.webp"
+      fallback: "/images/77-Tosty-Mix-300g.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/77-Tosty-Mix-300g.webp"
+      fallback: "/images/77-Tosty-Mix-300g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/77-Tosty-Mix-300g.webp"
+      fallback: "/images/77-Tosty-Mix-300g.png"
 category: snacks
 featured: false
 
