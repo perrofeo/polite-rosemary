@@ -8,18 +8,18 @@ price: '700.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/44_Platanos-Pro-80gr.webp"
+      fallback: "/images/44_Platanos-Pro-80gr.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/44_Platanos-Pro-80gr.webp"
+      fallback: "/images/44_Platanos-Pro-80gr.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/44_Platanos-Pro-80gr.webp"
+      fallback: "/images/44_Platanos-Pro-80gr.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/44_Platanos-Pro-80gr.webp"
+      fallback: "/images/44_Platanos-Pro-80gr.jpg"
 category: snacks
 featured: false
 
