@@ -15,8 +15,8 @@ images:
       fallback: "/images/9-Cigarro-Viceroy-Rojo-20-U.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/9-Cigarro-Viceroy-Rojo-20-U.webp"
+      fallback: "/images/9-Cigarro-Viceroy-Rojo-20-U.jpg"
     original:
       optimized: ''
       fallback: ''
