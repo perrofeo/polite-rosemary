@@ -8,18 +8,18 @@ price: '2,600.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/81-Tostitos-Clasico-190g.webp"
+      fallback: "/images/81-Tostitos-Clasico-190g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/81-Tostitos-Clasico-190g.webp"
+      fallback: "/images/81-Tostitos-Clasico-190g.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/81-Tostitos-Clasico-190g.webp"
+      fallback: "/images/81-Tostitos-Clasico-190g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/81-Tostitos-Clasico-190g.webp"
+      fallback: "/images/81-Tostitos-Clasico-190g.png"
 category: snacks
 featured: false
 
