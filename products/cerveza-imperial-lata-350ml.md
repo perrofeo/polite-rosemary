@@ -8,18 +8,18 @@ price: '900.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/61_Cerveza-Imperial-350ml.webp"
+      fallback: "/images/61_Cerveza-Imperial-350ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/61_Cerveza-Imperial-350ml.webp"
+      fallback: "/images/61_Cerveza-Imperial-350ml.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/61_Cerveza-Imperial-350ml.webp"
+      fallback: "/images/61_Cerveza-Imperial-350ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/61_Cerveza-Imperial-350ml.webp"
+      fallback: "/images/61_Cerveza-Imperial-350ml.png"
 category: cervezas
 featured: false
 
