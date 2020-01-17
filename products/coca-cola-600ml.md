@@ -8,18 +8,18 @@ price: '850.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/73-Coca-Cola-600-ml.webp"
+      fallback: "/images/73-Coca-Cola-600-ml.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/73-Coca-Cola-600-ml.webp"
+      fallback: "/images/73-Coca-Cola-600-ml.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/73-Coca-Cola-600-ml.webp"
+      fallback: "/images/73-Coca-Cola-600-ml.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/73-Coca-Cola-600-ml.webp"
+      fallback: "/images/73-Coca-Cola-600-ml.jpg"
 category: bebidas
 featured: false
 
