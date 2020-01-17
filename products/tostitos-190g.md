@@ -2,8 +2,8 @@
 section: Store
 layout: product
 id: "81"
-title: Tostitos 190g
-description: Tostitos 190g
+title: Tostitos Classic 190g
+description: Tostitos Classic 190g
 price: '2,600.00'
 images:
   default:
