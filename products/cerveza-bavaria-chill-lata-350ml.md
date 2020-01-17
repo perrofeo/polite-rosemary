@@ -8,18 +8,18 @@ price: '1,100.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/66_Cerveza-Bavaria-Chill-350ml.webp"
+      fallback: "/images/66_Cerveza-Bavaria-Chill-350ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/66_Cerveza-Bavaria-Chill-350ml.webp"
+      fallback: "/images/66_Cerveza-Bavaria-Chill-350ml.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/66_Cerveza-Bavaria-Chill-350ml.webp"
+      fallback: "/images/66_Cerveza-Bavaria-Chill-350ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/66_Cerveza-Bavaria-Chill-350ml.webp"
+      fallback: "/images/66_Cerveza-Bavaria-Chill-350ml.png"
 category: cervezas
 featured: false
 
