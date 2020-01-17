@@ -2,7 +2,7 @@
 section: Store
 layout: product
 id: "33"
-title: Semillas de Marañon Pro 80gr
+title: Semillas de Marañon Pro 80g
 description: Semillas de Marañon Pro 80gr
 price: '2,100.00'
 images:
