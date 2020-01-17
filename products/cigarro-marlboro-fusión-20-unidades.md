@@ -18,8 +18,8 @@ images:
       optimized: "/images/8-Cigarro-Marlboro-Fusion-20-U.webp"
       fallback: "/images/8-Cigarro-Marlboro-Fusion-20-U.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/8-Cigarro-Marlboro-Fusion-20-U.webp"
+      fallback: "/images/8-Cigarro-Marlboro-Fusion-20-U.jpg"
 category: cigarros
 featured: false
 
