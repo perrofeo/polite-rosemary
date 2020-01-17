@@ -8,18 +8,18 @@ price: '1,100.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/79-Tronaditas-Tosty-175g.webp"
+      fallback: "/images/79-Tronaditas-Tosty-175g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/79-Tronaditas-Tosty-175g.webp"
+      fallback: "/images/79-Tronaditas-Tosty-175g.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/79-Tronaditas-Tosty-175g.webp"
+      fallback: "/images/79-Tronaditas-Tosty-175g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/79-Tronaditas-Tosty-175g.webp"
+      fallback: "/images/79-Tronaditas-Tosty-175g.png"
 category: snacks
 featured: false
 
