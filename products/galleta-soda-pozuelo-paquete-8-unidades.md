@@ -8,18 +8,18 @@ price: '700.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/38_Galleta-Soda-Pozuelo-Paquete.webp"
+      fallback: "/images/38_Galleta-Soda-Pozuelo-Paquete.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/38_Galleta-Soda-Pozuelo-Paquete.webp"
+      fallback: "/images/38_Galleta-Soda-Pozuelo-Paquete.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/38_Galleta-Soda-Pozuelo-Paquete.webp"
+      fallback: "/images/38_Galleta-Soda-Pozuelo-Paquete.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/38_Galleta-Soda-Pozuelo-Paquete.webp"
+      fallback: "/images/38_Galleta-Soda-Pozuelo-Paquete.png"
 category: snacks
 featured: false
 
