@@ -18,8 +18,8 @@ images:
       optimized: "/images/3-Cigarro-Derby-Duro-Box.webp"
       fallback: "/images/3-Cigarro-Derby-Duro-Box.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/3-Cigarro-Derby-Duro-Box.webp"
+      fallback: "/images/3-Cigarro-Derby-Duro-Box.jpg"
 category: cigarros
 featured: false
 
