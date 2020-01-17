@@ -11,8 +11,8 @@ images:
       optimized: "/images/10-Cigarro-Viceroy-Suave-20-U.webp"
       fallback: "/images/10-Cigarro-Viceroy-Suave-20-U.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/10-Cigarro-Viceroy-Suave-20-U.webp"
+      fallback: "/images/10-Cigarro-Viceroy-Suave-20-U.jpg"
   featured:
     thumbnail:
       optimized: ''
