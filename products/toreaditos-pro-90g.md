@@ -2,8 +2,8 @@
 section: Store
 layout: product
 id: "45"
-title: Toreaditos Pro 90g
-description: Toreaditos Pro 90g
+title: Toreaditos Pro BBQ 90g
+description: Toreaditos Pro BBQ 90g
 price: '600.00'
 images:
   default:
