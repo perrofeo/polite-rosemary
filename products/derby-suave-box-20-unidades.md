@@ -15,8 +15,8 @@ images:
       fallback: "/images/2-Cigarro-Derby-Suave-Box.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/2-Cigarro-Derby-Suave-Box.webp"
+      fallback: "/images/2-Cigarro-Derby-Suave-Box.jpg"
     original:
       optimized: ''
       fallback: ''
