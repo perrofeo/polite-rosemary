@@ -3,8 +3,8 @@ section: Store
 layout: product
 id: "32"
 title: Semillas Mixtas Pro 80gr
-description: ''
-price: ''
+description: Semillas Mixtas Pro 80gr
+price: '1,050.00'
 images:
   default:
     thumbnail:
@@ -20,7 +20,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: snacks
 featured: false
 
 ---
