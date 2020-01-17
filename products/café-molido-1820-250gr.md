@@ -3,24 +3,24 @@ section: Store
 layout: product
 id: "19"
 title: Café Molido 1820 250gr
-description: ''
-price: ''
+description: Café Molido 1820 250gr
+price: '1,400.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/19-Cafe-1820-250g.webp"
+      fallback: "/images/19-Cafe-1820-250g.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/19-Cafe-1820-250g.webp"
+      fallback: "/images/19-Cafe-1820-250g.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/19-Cafe-1820-250g.webp"
+      fallback: "/images/19-Cafe-1820-250g.jpg"
     original:
-      optimized: ''
-      fallback: ''
-category: ''
+      optimized: "/images/19-Cafe-1820-250g.webp"
+      fallback: "/images/19-Cafe-1820-250g.jpg"
+category: alimentos
 featured: false
 
 ---
