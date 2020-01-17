@@ -8,18 +8,18 @@ price: '1,000.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/40_Chunky-Santa-Cruz-250g.webp"
+      fallback: "/images/40_Chunky-Santa-Cruz-250g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/40_Chunky-Santa-Cruz-250g.webp"
+      fallback: "/images/40_Chunky-Santa-Cruz-250g.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/40_Chunky-Santa-Cruz-250g.webp"
+      fallback: "/images/40_Chunky-Santa-Cruz-250g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/40_Chunky-Santa-Cruz-250g.webp"
+      fallback: "/images/40_Chunky-Santa-Cruz-250g.png"
 category: snacks
 featured: false
 
