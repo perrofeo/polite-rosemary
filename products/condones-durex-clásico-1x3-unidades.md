@@ -15,8 +15,8 @@ images:
       fallback: "/images/11-Condon-Durex-Clasico-3-U.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/11-Condon-Durex-Clasico-3-U.webp"
+      fallback: "/images/11-Condon-Durex-Clasico-3-U.png"
     original:
       optimized: ''
       fallback: ''
