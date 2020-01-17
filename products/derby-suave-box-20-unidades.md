@@ -18,8 +18,8 @@ images:
       optimized: "/images/2-Cigarro-Derby-Suave-Box.webp"
       fallback: "/images/2-Cigarro-Derby-Suave-Box.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/2-Cigarro-Derby-Suave-Box.webp"
+      fallback: "/images/2-Cigarro-Derby-Suave-Box.jpg"
 category: cigarros
 featured: false
 
