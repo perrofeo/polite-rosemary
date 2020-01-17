@@ -8,18 +8,18 @@ price: '1,100.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/59_Cerveza-Imperial-Silver-473ml.webp"
+      fallback: "/images/59_Cerveza-Imperial-Silver-473ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/59_Cerveza-Imperial-Silver-473ml.webp"
+      fallback: "/images/59_Cerveza-Imperial-Silver-473ml.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/59_Cerveza-Imperial-Silver-473ml.webp"
+      fallback: "/images/59_Cerveza-Imperial-Silver-473ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/59_Cerveza-Imperial-Silver-473ml.webp"
+      fallback: "/images/59_Cerveza-Imperial-Silver-473ml.png"
 category: cervezas
 featured: false
 
