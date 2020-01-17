@@ -8,18 +8,18 @@ price: '1,350.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/46_Papas-Tostadas-Kitty-180g.webp"
+      fallback: "/images/46_Papas-Tostadas-Kitty-180g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/46_Papas-Tostadas-Kitty-180g.webp"
+      fallback: "/images/46_Papas-Tostadas-Kitty-180g.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/46_Papas-Tostadas-Kitty-180g.webp"
+      fallback: "/images/46_Papas-Tostadas-Kitty-180g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/46_Papas-Tostadas-Kitty-180g.webp"
+      fallback: "/images/46_Papas-Tostadas-Kitty-180g.png"
 category: snacks
 featured: false
 
