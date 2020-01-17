@@ -15,8 +15,8 @@ images:
       fallback: "/images/1-salchicha-pavo-cinta-azul.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/1-salchicha-pavo-cinta-azul.webp"
+      fallback: "/images/1-salchicha-pavo-cinta-azul.jpg"
     original:
       optimized: ''
       fallback: ''
