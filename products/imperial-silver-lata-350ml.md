@@ -4,7 +4,7 @@ layout: product
 id: "60"
 title: Cerveza Imperial Silver Lata 350ml
 description: Cerveza Imperial Silver Lata 350ml
-price: '900,00'
+price: '900.00'
 images:
   default:
     thumbnail:
