@@ -8,18 +8,18 @@ price: '575.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/26_Mani-Pro-Salado-80gr.webp"
+      fallback: "/images/26_Mani-Pro-Salado-80gr.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/26_Mani-Pro-Salado-80gr.webp"
+      fallback: "/images/26_Mani-Pro-Salado-80gr.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/26_Mani-Pro-Salado-80gr.webp"
+      fallback: "/images/26_Mani-Pro-Salado-80gr.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/26_Mani-Pro-Salado-80gr.webp"
+      fallback: "/images/26_Mani-Pro-Salado-80gr.jpg"
 category: snacks
 featured: false
 
