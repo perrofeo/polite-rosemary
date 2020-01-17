@@ -8,18 +8,18 @@ price: '1,700.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/72-Coca-Cola-Light-2-litros.webp"
+      fallback: "/images/72-Coca-Cola-Light-2-litros.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/72-Coca-Cola-Light-2-litros.webp"
+      fallback: "/images/72-Coca-Cola-Light-2-litros.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/72-Coca-Cola-Light-2-litros.webp"
+      fallback: "/images/72-Coca-Cola-Light-2-litros.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/72-Coca-Cola-Light-2-litros.webp"
+      fallback: "/images/72-Coca-Cola-Light-2-litros.png"
 category: bebidas
 featured: false
 
