@@ -8,18 +8,18 @@ price: '1,400.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/71-Coca-Cola-Zero-2_5-litros.webp"
+      fallback: "/images/71-Coca-Cola-Zero-2_5-litros.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/71-Coca-Cola-Zero-2_5-litros.webp"
+      fallback: "/images/71-Coca-Cola-Zero-2_5-litros.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/71-Coca-Cola-Zero-2_5-litros.webp"
+      fallback: "/images/71-Coca-Cola-Zero-2_5-litros.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/71-Coca-Cola-Zero-2_5-litros.webp"
+      fallback: "/images/71-Coca-Cola-Zero-2_5-litros.png"
 category: bebidas
 featured: false
 
