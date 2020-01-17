@@ -2,8 +2,8 @@
 section: Store
 layout: product
 id: "19"
-title: Café Molido 1820 250gr
-description: Café Molido 1820 250gr
+title: Café Molido 1820 250g
+description: Café Molido 1820 250g
 price: '1,400.00'
 images:
   default:
