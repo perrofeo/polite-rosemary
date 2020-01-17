@@ -8,18 +8,18 @@ price: '1,200.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/78-Rumba-300g.webp"
+      fallback: "/images/78-Rumba-300g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/78-Rumba-300g.webp"
+      fallback: "/images/78-Rumba-300g.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/78-Rumba-300g.webp"
+      fallback: "/images/78-Rumba-300g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/78-Rumba-300g.webp"
+      fallback: "/images/78-Rumba-300g.png"
 category: snacks
 featured: false
 
