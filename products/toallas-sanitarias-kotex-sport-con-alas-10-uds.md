@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: "23"
+id: ''
 title: Toallas Sanitarias Kotex Sport con alas, 10 uds
 description: Toallas Sanitarias Kotex Sport con alas, 10 uds
 price: 1.865,00
