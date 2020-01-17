@@ -2,8 +2,8 @@
 section: Store
 layout: product
 id: "51"
-title: Trident Sandía 18 unidades
-description: Trident Sandía 18 unidades
+title: Trident 18 unidades
+description: Trident 18 unidades
 price: '750.00'
 images:
   default:
