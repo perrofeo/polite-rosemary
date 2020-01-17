@@ -15,11 +15,11 @@ images:
       fallback: "/images/14-Platos-Desechables-Link-9.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/14-Platos-Desechables-Link-9.webp"
+      fallback: "/images/14-Platos-Desechables-Link-9.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/14-Platos-Desechables-Link-9.webp"
+      fallback: "/images/14-Platos-Desechables-Link-9.png"
 category: hogar
 featured: false
 
