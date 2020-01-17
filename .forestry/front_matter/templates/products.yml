@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/azúcar-doña-maría-2kg.md
 - products/bolsa-hielo-3-5-kg.md
 - products/cacique-guaro-365ml.md
 - products/café-molido-1820-250gr.md
