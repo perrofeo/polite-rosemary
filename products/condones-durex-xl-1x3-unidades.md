@@ -11,8 +11,8 @@ images:
       optimized: "/images/12-Condon-Durex-XL-3-U.webp"
       fallback: "/images/12-Condon-Durex-XL-3-U.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/12-Condon-Durex-XL-3-U.webp"
+      fallback: "/images/12-Condon-Durex-XL-3-U.jpg"
   featured:
     thumbnail:
       optimized: ''
