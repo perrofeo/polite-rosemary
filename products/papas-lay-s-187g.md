@@ -8,18 +8,18 @@ price: '1,800.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/82-Papas-Lays-187g.webp"
+      fallback: "/images/82-Papas-Lays-187g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/82-Papas-Lays-187g.webp"
+      fallback: "/images/82-Papas-Lays-187g.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/82-Papas-Lays-187g.webp"
+      fallback: "/images/82-Papas-Lays-187g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/82-Papas-Lays-187g.webp"
+      fallback: "/images/82-Papas-Lays-187g.png"
 category: snacks
 featured: false
 
