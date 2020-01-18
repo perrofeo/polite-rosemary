@@ -8,18 +8,18 @@ price: '1,060.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/85_Atun-Sardimar-Vegetales-140g.webp"
+      fallback: "/images/85_Atun-Sardimar-Vegetales-140g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/85_Atun-Sardimar-Vegetales-140g.webp"
+      fallback: "/images/85_Atun-Sardimar-Vegetales-140g.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/85_Atun-Sardimar-Vegetales-140g.webp"
+      fallback: "/images/85_Atun-Sardimar-Vegetales-140g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/85_Atun-Sardimar-Vegetales-140g.webp"
+      fallback: "/images/85_Atun-Sardimar-Vegetales-140g.png"
 category: alimentos
 featured: false
 
