@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/atún-sardimar-vegetales-140g.md
 - products/azúcar-doña-maría-2kg.md
 - products/boletas-paquete-ocb.md
 - products/bolsa-hielo-3-5-kg.md
