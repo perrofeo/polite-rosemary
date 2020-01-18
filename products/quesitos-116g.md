@@ -8,18 +8,18 @@ price: '750.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/84-Quesitos-Tosty-116g.webp"
+      fallback: "/images/84-Quesitos-Tosty-116g.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/84-Quesitos-Tosty-116g.webp"
+      fallback: "/images/84-Quesitos-Tosty-116g.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/84-Quesitos-Tosty-116g.webp"
+      fallback: "/images/84-Quesitos-Tosty-116g.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/84-Quesitos-Tosty-116g.webp"
+      fallback: "/images/84-Quesitos-Tosty-116g.jpg"
 category: snacks
 featured: false
 
