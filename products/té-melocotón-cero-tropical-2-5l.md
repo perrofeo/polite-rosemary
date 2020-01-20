@@ -8,18 +8,18 @@ price: '1,500.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/103-Te-Melocoton-Cero-Tropical_2-5L.webp"
+      fallback: "/images/103-Te-Melocoton-Cero-Tropical_2-5L.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/103-Te-Melocoton-Cero-Tropical_2-5L.webp"
+      fallback: "/images/103-Te-Melocoton-Cero-Tropical_2-5L.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/103-Te-Melocoton-Cero-Tropical_2-5L.webp"
+      fallback: "/images/103-Te-Melocoton-Cero-Tropical_2-5L.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/103-Te-Melocoton-Cero-Tropical_2-5L.webp"
+      fallback: "/images/103-Te-Melocoton-Cero-Tropical_2-5L.png"
 category: bebidas
 featured: false
 
