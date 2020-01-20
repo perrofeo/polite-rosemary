@@ -101,6 +101,7 @@ fields:
   config:
     required: true
 pages:
+- products/agua-h2oh-limón-600ml.md
 - products/atún-blanco-sardimar-lomo-140g.md
 - products/atún-sardimar-trocitos-140g.md
 - products/atún-sardimar-vegetales-140g.md
