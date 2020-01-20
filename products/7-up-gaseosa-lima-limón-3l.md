@@ -8,18 +8,18 @@ price: '1,800.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/114-7up-Gaseosa-3L.webp"
+      fallback: "/images/114-7up-Gaseosa-3L.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/114-7up-Gaseosa-3L.webp"
+      fallback: "/images/114-7up-Gaseosa-3L.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/114-7up-Gaseosa-3L.webp"
+      fallback: "/images/114-7up-Gaseosa-3L.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/114-7up-Gaseosa-3L.webp"
+      fallback: "/images/114-7up-Gaseosa-3L.jpg"
 category: bebidas
 featured: false
 
