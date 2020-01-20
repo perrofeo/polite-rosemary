@@ -8,18 +8,18 @@ price: '750.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/107-Te-Tropical-500ml.webp"
+      fallback: "/images/107-Te-Tropical-500ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/107-Te-Tropical-500ml.webp"
+      fallback: "/images/107-Te-Tropical-500ml.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/107-Te-Tropical-500ml.webp"
+      fallback: "/images/107-Te-Tropical-500ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/107-Te-Tropical-500ml.webp"
+      fallback: "/images/107-Te-Tropical-500ml.png"
 category: bebidas
 featured: false
 
