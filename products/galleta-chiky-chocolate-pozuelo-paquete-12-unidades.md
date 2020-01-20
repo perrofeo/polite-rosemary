@@ -8,18 +8,18 @@ price: '2,050.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/95-Galleta-Chiky-Pozuelo-12-pack.webp"
+      fallback: "/images/95-Galleta-Chiky-Pozuelo-12-pack.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/95-Galleta-Chiky-Pozuelo-12-pack.webp"
+      fallback: "/images/95-Galleta-Chiky-Pozuelo-12-pack.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/95-Galleta-Chiky-Pozuelo-12-pack.webp"
+      fallback: "/images/95-Galleta-Chiky-Pozuelo-12-pack.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/95-Galleta-Chiky-Pozuelo-12-pack.webp"
+      fallback: "/images/95-Galleta-Chiky-Pozuelo-12-pack.png"
 category: snacks
 featured: false
 
