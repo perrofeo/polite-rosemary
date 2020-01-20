@@ -8,18 +8,18 @@ price: '1,750.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/90-Frijoles-Rojo-Medio-Santa-Cruz-800g.webp"
+      fallback: "/images/90-Frijoles-Rojo-Medio-Santa-Cruz-800g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/90-Frijoles-Rojo-Medio-Santa-Cruz-800g.webp"
+      fallback: "/images/90-Frijoles-Rojo-Medio-Santa-Cruz-800g.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/90-Frijoles-Rojo-Medio-Santa-Cruz-800g.webp"
+      fallback: "/images/90-Frijoles-Rojo-Medio-Santa-Cruz-800g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/90-Frijoles-Rojo-Medio-Santa-Cruz-800g.webp"
+      fallback: "/images/90-Frijoles-Rojo-Medio-Santa-Cruz-800g.png"
 category: ''
 featured: false
 
