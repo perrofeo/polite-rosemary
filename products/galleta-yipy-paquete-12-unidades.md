@@ -8,18 +8,18 @@ price: '2,050.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/96-Galleta-Yipi-12-pack.webp"
+      fallback: "/images/96-Galleta-Yipi-12-pack.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/96-Galleta-Yipi-12-pack.webp"
+      fallback: "/images/96-Galleta-Yipi-12-pack.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/96-Galleta-Yipi-12-pack.webp"
+      fallback: "/images/96-Galleta-Yipi-12-pack.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/96-Galleta-Yipi-12-pack.webp"
+      fallback: "/images/96-Galleta-Yipi-12-pack.jpg"
 category: snacks
 featured: false
 
