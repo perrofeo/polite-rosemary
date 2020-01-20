@@ -8,18 +8,18 @@ price: '3,300.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/13-Condon-Durex-Maximo-Placer-3-U.webp"
+      fallback: "/images/13-Condon-Durex-Maximo-Placer-3-U.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/13-Condon-Durex-Maximo-Placer-3-U.webp"
+      fallback: "/images/13-Condon-Durex-Maximo-Placer-3-U.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/13-Condon-Durex-Maximo-Placer-3-U.webp"
+      fallback: "/images/13-Condon-Durex-Maximo-Placer-3-U.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/13-Condon-Durex-Maximo-Placer-3-U.webp"
+      fallback: "/images/13-Condon-Durex-Maximo-Placer-3-U.png"
 category: higiene-belleza
 featured: false
 
