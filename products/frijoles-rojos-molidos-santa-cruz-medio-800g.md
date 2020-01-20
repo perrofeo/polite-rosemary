@@ -20,7 +20,7 @@ images:
     original:
       optimized: "/images/90-Frijoles-Rojo-Medio-Santa-Cruz-800g.webp"
       fallback: "/images/90-Frijoles-Rojo-Medio-Santa-Cruz-800g.png"
-category: ''
+category: alimentos
 featured: false
 
 ---
