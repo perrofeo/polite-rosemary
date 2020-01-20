@@ -8,18 +8,18 @@ price: '950.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/92-Frijoles-Rojo-Medio-Santa-Cruz-400g.webp"
+      fallback: "/images/92-Frijoles-Rojo-Medio-Santa-Cruz-400g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/92-Frijoles-Rojo-Medio-Santa-Cruz-400g.webp"
+      fallback: "/images/92-Frijoles-Rojo-Medio-Santa-Cruz-400g.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/92-Frijoles-Rojo-Medio-Santa-Cruz-400g.webp"
+      fallback: "/images/92-Frijoles-Rojo-Medio-Santa-Cruz-400g.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/92-Frijoles-Rojo-Medio-Santa-Cruz-400g.webp"
+      fallback: "/images/92-Frijoles-Rojo-Medio-Santa-Cruz-400g.png"
 category: alimentos
 featured: false
 
