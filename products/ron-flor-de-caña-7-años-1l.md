@@ -8,18 +8,18 @@ price: '13,000.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/145_Flor-de-Cana-Ron-7anos-1L.webp"
+      fallback: "/images/145_Flor-de-Cana-Ron-7anos-1L.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/145_Flor-de-Cana-Ron-7anos-1L.webp"
+      fallback: "/images/145_Flor-de-Cana-Ron-7anos-1L.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/145_Flor-de-Cana-Ron-7anos-1L.webp"
+      fallback: "/images/145_Flor-de-Cana-Ron-7anos-1L.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/145_Flor-de-Cana-Ron-7anos-1L.webp"
+      fallback: "/images/145_Flor-de-Cana-Ron-7anos-1L.jpg"
 category: vinos-licores
 featured: false
 
