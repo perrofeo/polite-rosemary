@@ -8,18 +8,18 @@ price: '25,000.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/123_Chivas-Regal-Whisky-1L.webp"
+      fallback: "/images/123_Chivas-Regal-Whisky-1L.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/123_Chivas-Regal-Whisky-1L.webp"
+      fallback: "/images/123_Chivas-Regal-Whisky-1L.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/123_Chivas-Regal-Whisky-1L.webp"
+      fallback: "/images/123_Chivas-Regal-Whisky-1L.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/123_Chivas-Regal-Whisky-1L.webp"
+      fallback: "/images/123_Chivas-Regal-Whisky-1L.jpg"
 category: vinos-licores
 featured: false
 
