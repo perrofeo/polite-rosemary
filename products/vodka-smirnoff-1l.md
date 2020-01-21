@@ -8,18 +8,18 @@ price: '6,630.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/143_Smirnoff-Vodka-750ml.webp"
+      fallback: "/images/143_Smirnoff-Vodka-750ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/143_Smirnoff-Vodka-750ml.webp"
+      fallback: "/images/143_Smirnoff-Vodka-750ml.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/143_Smirnoff-Vodka-750ml.webp"
+      fallback: "/images/143_Smirnoff-Vodka-750ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/143_Smirnoff-Vodka-750ml.webp"
+      fallback: "/images/143_Smirnoff-Vodka-750ml.png"
 category: vinos-licores
 featured: false
 
