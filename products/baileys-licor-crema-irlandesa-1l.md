@@ -8,18 +8,18 @@ price: '15,200.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/136_Baileys-Crema-750ml.webp"
+      fallback: "/images/136_Baileys-Crema-750ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/136_Baileys-Crema-750ml.webp"
+      fallback: "/images/136_Baileys-Crema-750ml.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/136_Baileys-Crema-750ml.webp"
+      fallback: "/images/136_Baileys-Crema-750ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/136_Baileys-Crema-750ml.webp"
+      fallback: "/images/136_Baileys-Crema-750ml.png"
 category: vinos-licores
 featured: false
 
