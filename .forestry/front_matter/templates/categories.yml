@@ -26,11 +26,11 @@ fields:
   config:
     required: true
 pages:
-- category/higiene-belleza.md
-- category/cigarros.md
-- category/hogar.md
 - category/alimentos.md
+- category/bebidas.md
+- category/cervezas.md
+- category/cigarros.md
+- category/higiene-belleza.md
+- category/hogar.md
 - category/snacks.md
 - category/vinos-licores.md
-- category/cervezas.md
-- category/bebidas.md

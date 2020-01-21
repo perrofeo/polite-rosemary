@@ -1,25 +1,25 @@
 ---
 section: Store
 layout: product
-id: "15"
-title: Imperial Silver Lata 350ml
-description: Imperial Silver Lata 350ml
-price: '895,00'
+id: "60"
+title: Cerveza Imperial Silver Lata 350ml
+description: Cerveza Imperial Silver Lata 350ml
+price: '900.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: "/images/Imperial-Cerv-Lta-Silver -350Ml.jpg"
+      optimized: "/images/60_Cerveza-Imperial-Silver-350ml.webp"
+      fallback: "/images/60_Cerveza-Imperial-Silver-350ml.png"
     original:
-      optimized: ''
-      fallback: "/images/Imperial-Cerv-Lta-Silver -350Ml.jpg"
+      optimized: "/images/60_Cerveza-Imperial-Silver-350ml.webp"
+      fallback: "/images/60_Cerveza-Imperial-Silver-350ml.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/60_Cerveza-Imperial-Silver-350ml.webp"
+      fallback: "/images/60_Cerveza-Imperial-Silver-350ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/60_Cerveza-Imperial-Silver-350ml.webp"
+      fallback: "/images/60_Cerveza-Imperial-Silver-350ml.png"
 category: cervezas
 featured: false
 

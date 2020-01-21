@@ -1,10 +1,10 @@
 ---
 section: Store
 layout: product
-id: "5"
+id: "127"
 title: Cacique Guaro 365ml
 description: Cacique Guaro 365ml
-price: 2.100,00
+price: 2.000,00
 images:
   default:
     thumbnail:

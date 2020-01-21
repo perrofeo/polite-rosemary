@@ -1,7 +1,7 @@
 ---
 section: Store
 layout: product
-id: "8"
+id: "7"
 title: Cigarro Marlboro Rojo 20 unidades
 description: Cigarro Marlboro Rojo 20 unidades
 price: 2.200,00
