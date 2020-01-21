@@ -8,18 +8,18 @@ price: '1,500.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/146_Corona-Cerveza-355ml.webp"
+      fallback: "/images/146_Corona-Cerveza-355ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/146_Corona-Cerveza-355ml.webp"
+      fallback: "/images/146_Corona-Cerveza-355ml.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/146_Corona-Cerveza-355ml.webp"
+      fallback: "/images/146_Corona-Cerveza-355ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/146_Corona-Cerveza-355ml.webp"
+      fallback: "/images/146_Corona-Cerveza-355ml.png"
 category: cervezas
 featured: false
 
