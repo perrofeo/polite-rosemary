@@ -21,6 +21,6 @@ images:
       optimized: "/images/66_Cerveza-Bavaria-Chill-350ml.webp"
       fallback: "/images/66_Cerveza-Bavaria-Chill-350ml.png"
 category: cervezas
-featured: false
+featured: true
 
 ---

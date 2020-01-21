@@ -21,6 +21,6 @@ images:
       optimized: "/images/134_Bacardi-Ron-Superior-Claro-750ml.webp"
       fallback: "/images/134_Bacardi-Ron-Superior-Claro-750ml.png"
 category: vinos-licores
-featured: false
+featured: true
 
 ---

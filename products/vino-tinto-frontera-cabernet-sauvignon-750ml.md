@@ -21,6 +21,6 @@ images:
       optimized: "/images/132_Frontera-Vino-Tinto-Cabernet-750ml.webp"
       fallback: "/images/132_Frontera-Vino-Tinto-Cabernet-750ml.png"
 category: vinos-licores
-featured: false
+featured: true
 
 ---

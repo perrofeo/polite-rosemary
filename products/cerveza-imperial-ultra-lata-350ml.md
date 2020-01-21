@@ -21,6 +21,6 @@ images:
       optimized: "/images/64_Cerveza-Imperial-Ultra-350ml.webp"
       fallback: "/images/64_Cerveza-Imperial-Ultra-350ml.jpg"
 category: cervezas
-featured: false
+featured: true
 
 ---
