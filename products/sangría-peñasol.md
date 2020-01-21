@@ -8,18 +8,18 @@ price: '3,150.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/138_Sangria-Penasol-1L.webp"
+      fallback: "/images/138_Sangria-Penasol-1L.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/138_Sangria-Penasol-1L.webp"
+      fallback: "/images/138_Sangria-Penasol-1L.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/138_Sangria-Penasol-1L.webp"
+      fallback: "/images/138_Sangria-Penasol-1L.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/138_Sangria-Penasol-1L.webp"
+      fallback: "/images/138_Sangria-Penasol-1L.png"
 category: vinos-licores
 featured: false
 
