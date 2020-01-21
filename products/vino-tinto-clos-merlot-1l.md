@@ -8,18 +8,18 @@ price: '3,950.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/140_Clos-Vino-Tinto-Merlot-1L.webp"
+      fallback: "/images/140_Clos-Vino-Tinto-Merlot-1L.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/140_Clos-Vino-Tinto-Merlot-1L.webp"
+      fallback: "/images/140_Clos-Vino-Tinto-Merlot-1L.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/140_Clos-Vino-Tinto-Merlot-1L.webp"
+      fallback: "/images/140_Clos-Vino-Tinto-Merlot-1L.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/140_Clos-Vino-Tinto-Merlot-1L.webp"
+      fallback: "/images/140_Clos-Vino-Tinto-Merlot-1L.png"
 category: vinos-licores
 featured: false
 
