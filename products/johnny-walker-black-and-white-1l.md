@@ -8,18 +8,18 @@ price: '23,000.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/125_Johnnie-Walker-Black-and-White-Whisky-1L.webp"
+      fallback: "/images/125_Johnnie-Walker-Black-and-White-Whisky-1L.jpeg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/125_Johnnie-Walker-Black-and-White-Whisky-1L.webp"
+      fallback: "/images/125_Johnnie-Walker-Black-and-White-Whisky-1L.jpeg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/125_Johnnie-Walker-Black-and-White-Whisky-1L.webp"
+      fallback: "/images/125_Johnnie-Walker-Black-and-White-Whisky-1L.jpeg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/125_Johnnie-Walker-Black-and-White-Whisky-1L.webp"
+      fallback: "/images/125_Johnnie-Walker-Black-and-White-Whisky-1L.jpeg"
 category: vinos-licores
 featured: false
 
