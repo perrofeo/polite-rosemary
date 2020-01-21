@@ -8,18 +8,18 @@ price: '6,430.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/133_Frontera-Vino-Tinto-Merlot-750ml.webp"
+      fallback: "/images/133_Frontera-Vino-Tinto-Merlot-750ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/133_Frontera-Vino-Tinto-Merlot-750ml.webp"
+      fallback: "/images/133_Frontera-Vino-Tinto-Merlot-750ml.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/133_Frontera-Vino-Tinto-Merlot-750ml.webp"
+      fallback: "/images/133_Frontera-Vino-Tinto-Merlot-750ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/133_Frontera-Vino-Tinto-Merlot-750ml.webp"
+      fallback: "/images/133_Frontera-Vino-Tinto-Merlot-750ml.png"
 category: vinos-licores
 featured: false
 
