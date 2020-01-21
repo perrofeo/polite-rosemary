@@ -8,18 +8,18 @@ price: '13,500.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/144_Absolut-Vodka-1L.webp"
+      fallback: "/images/144_Absolut-Vodka-1L.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/144_Absolut-Vodka-1L.webp"
+      fallback: "/images/144_Absolut-Vodka-1L.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/144_Absolut-Vodka-1L.webp"
+      fallback: "/images/144_Absolut-Vodka-1L.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/144_Absolut-Vodka-1L.webp"
+      fallback: "/images/144_Absolut-Vodka-1L.jpg"
 category: vinos-licores
 featured: false
 
