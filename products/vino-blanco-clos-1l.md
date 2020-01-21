@@ -8,18 +8,18 @@ price: '3,950.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/142_Clos-Vino-Blanco-1L.webp"
+      fallback: "/images/142_Clos-Vino-Blanco-1L.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/142_Clos-Vino-Blanco-1L.webp"
+      fallback: "/images/142_Clos-Vino-Blanco-1L.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/142_Clos-Vino-Blanco-1L.webp"
+      fallback: "/images/142_Clos-Vino-Blanco-1L.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/142_Clos-Vino-Blanco-1L.webp"
+      fallback: "/images/142_Clos-Vino-Blanco-1L.png"
 category: vinos-licores
 featured: false
 
