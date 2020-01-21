@@ -21,6 +21,6 @@ images:
       optimized: "/images/36_Papas-Pringles-124gr.webp"
       fallback: "/images/36_Papas-Pringles-124gr.jpg"
 category: snacks
-featured: false
+featured: true
 
 ---
