@@ -8,18 +8,18 @@ price: '5,600.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/126_Cacique-Guaro-1L.webp"
+      fallback: "/images/126_Cacique-Guaro-1L.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/126_Cacique-Guaro-1L.webp"
+      fallback: "/images/126_Cacique-Guaro-1L.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/126_Cacique-Guaro-1L.webp"
+      fallback: "/images/126_Cacique-Guaro-1L.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/126_Cacique-Guaro-1L.webp"
+      fallback: "/images/126_Cacique-Guaro-1L.png"
 category: vinos-licores
 featured: false
 
