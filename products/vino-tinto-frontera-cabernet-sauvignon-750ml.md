@@ -8,18 +8,18 @@ price: '6,430.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/132_Frontera-Vino-Tinto-Cabernet-750ml.webp"
+      fallback: "/images/132_Frontera-Vino-Tinto-Cabernet-750ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/132_Frontera-Vino-Tinto-Cabernet-750ml.webp"
+      fallback: "/images/132_Frontera-Vino-Tinto-Cabernet-750ml.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/132_Frontera-Vino-Tinto-Cabernet-750ml.webp"
+      fallback: "/images/132_Frontera-Vino-Tinto-Cabernet-750ml.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/132_Frontera-Vino-Tinto-Cabernet-750ml.webp"
+      fallback: "/images/132_Frontera-Vino-Tinto-Cabernet-750ml.png"
 category: vinos-licores
 featured: false
 
