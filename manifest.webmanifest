@@ -4,7 +4,7 @@
     "scope" : "/",
     "display" : "standalone",
     "start_url" : "https://upbeat-bell-33d646.netlify.com/",
-    "short_name" : "Ramón Súper Express",
+    "short_name" : "Ramón Super Express",
     "theme_color" : "#ffff00",
     "description" : "Tu supermercado de confianza, ahora online",
     "orientation" : "any",
