@@ -8,18 +8,18 @@ price: '12,230.00'
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/131_Centenario-Ron-5anos-750.webp"
+      fallback: "/images/131_Centenario-Ron-5anos-750.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/131_Centenario-Ron-5anos-750.webp"
+      fallback: "/images/131_Centenario-Ron-5anos-750.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/131_Centenario-Ron-5anos-750.webp"
+      fallback: "/images/131_Centenario-Ron-5anos-750.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/131_Centenario-Ron-5anos-750.webp"
+      fallback: "/images/131_Centenario-Ron-5anos-750.png"
 category: vinos-licores
 featured: false
 
