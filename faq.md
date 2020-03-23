@@ -1,9 +1,13 @@
 ---
-title: Preguntas Frecuentes
-headline: Behold our FAQ
+title: Como Comprar
+headline: Tan Fácil como enviar un WhatsApp
 introduction: All right, friends. Let’s do this. This section will cover basic, frequently
   asked questions for e-commerce merchants.
 questions:
+- question: ''
+  answer: ''
+- question: ''
+  answer: ''
 - question: How long does shipping take?
   answer: |-
     Now that’s a frequent one all right, ain’t it? Your answer to this should *manage customer expectations*. Just like [a good checkout flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
