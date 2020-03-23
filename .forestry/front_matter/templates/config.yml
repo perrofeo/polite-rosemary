@@ -60,6 +60,7 @@ fields:
       type: custom
     options:
     - default
+  hidden: true
 - type: field_group
   name: palettes
   label: Palettes
