@@ -1,10 +1,10 @@
 {"dir" : "ltr",
     "lang" : "es",
-    "name" : "Ramón Super Express",
+    "name" : "Super Ramón Express",
     "scope" : "/",
     "display" : "standalone",
-    "start_url" : "https://upbeat-bell-33d646.netlify.com/",
-    "short_name" : "Ramón Super Express",
+    "start_url" : "https://super-ramon-express.netlify.com/",
+    "short_name" : "Super Ramón Express",
     "theme_color" : "#ffff00",
     "description" : "Tu supermercado de confianza, ahora online",
     "orientation" : "any",
@@ -14,7 +14,7 @@
     "generated" : "true",
     "icons" : [
         {
-            "src": "https://upbeat-bell-33d646.netlify.com/images/favicon.png",
+            "src": "https://super-ramon-express.netlify.com/images/favicon.png",
             "sizes": "512x512"
         }
     ]}
