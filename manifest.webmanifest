@@ -3,7 +3,7 @@
     "name" : "Super Ramón Express",
     "scope" : "/",
     "display" : "standalone",
-    "start_url" : "https://super-ramon-express.netlify.com/",
+    "start_url" : "https://www.ramonexpress.com/",
     "short_name" : "Super Ramón Express",
     "theme_color" : "#ffff00",
     "description" : "Tu supermercado de confianza, ahora online",
@@ -14,7 +14,7 @@
     "generated" : "true",
     "icons" : [
         {
-            "src": "https://super-ramon-express.netlify.com/images/favicon.png",
+            "src": "https://www.ramonexpress.com/images/favicon.png",
             "sizes": "512x512"
         }
     ]}
