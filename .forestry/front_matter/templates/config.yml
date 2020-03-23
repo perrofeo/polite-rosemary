@@ -19,12 +19,15 @@ fields:
 - type: text
   name: snipcart_js
   label: Snipcart JavaScript file URL
+  hidden: true
 - type: text
   name: snipcart_css
   label: Snipcart CSS file URL
+  hidden: true
 - type: text
   name: snipcart_api_key
   label: Snipcart public API key
+  hidden: true
 - type: field_group
   name: logos
   label: Logos
@@ -57,6 +60,7 @@ fields:
       type: custom
     options:
     - default
+  hidden: true
 - type: field_group
   name: palettes
   label: Palettes
