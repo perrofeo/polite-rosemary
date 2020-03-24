@@ -1,12 +1,13 @@
 ---
 title: Nosotros
 headline: Somos Ramón Express
-introduction: "**Ramón Express** is etiam ac ullamcorper libero. Sed ornare tempus
-  mi, vitae venenatis nunc euismod id. Cras elementum mi massa, quis varius ipsum
-  lacinia condimentum. Maecenas dictum lorem sem, et tincidunt sapien malesuada at.
-  Aliquam leo velit, placerat eget pellentesque at, tempor id diam."
+introduction: "**Ramón Express** el Super hasta Su Casa. Nuestro Servicio Express
+  del Super más completo para Envíos Rápidos hasta su Casa.  Somos una Empresa pyme
+  Familiar consolidada con más de 30 años de Experiencia. Liderada por su fundador
+  y el conocido personaje de Curridabat, \"Ramón\". \n\nRamón Express es el servicio
+  Express de Super la Españolita en Curridabat, costado sur oeste del parque de Curridabat."
 bulletpoints:
-- title: Fácil como mandar un Whats
+- title: Fácil como mandar un WhatsApp
   description: Ahora puedes ordenar cualquier producto de nuestra tienda por Whatsapp,
     sin complicaciones. Somos un negocio familiar establecido en el corazón de Curridabat
     hace más de 30 años. Vamos para la tercera generación y, con el deseo de seguir
@@ -16,7 +17,7 @@ bulletpoints:
   image:
     optimized: ''
     fallback: "/images/DR_nosotros1.jpg"
-- title: Tradición y confianza
+- title: Tradición y Confianza
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tristique
     dui nec dui sodales commodo. In hac habitasse platea dictumst. Nulla non quam
     porttitor, elementum eros ac, rhoncus lectus. Vestibulum ante ipsum primis in
